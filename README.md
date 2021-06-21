@@ -1,4 +1,7 @@
+![Path DevOps](picture/devops.png)
+
 # Buku DevOps
+
 Buku Lengkap Menjadi DevOps Engineer
 
 ## Linux
